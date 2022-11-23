@@ -20,7 +20,7 @@ public class TestCase55 {
 			driver.findElement(By.xpath("//h5[text()='Elements']")).click();
 			Thread.sleep(2000);
 			driver.findElement(By.className("text")).click();
-			Thread.sleep(5000);
+			Thread.sleep(8000);
 			driver.close();
 
 	}
